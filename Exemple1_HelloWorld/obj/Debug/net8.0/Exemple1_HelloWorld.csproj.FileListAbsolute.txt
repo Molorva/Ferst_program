@@ -1,0 +1,15 @@
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/bin/Debug/net8.0/Exemple1_HelloWorld
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/bin/Debug/net8.0/Exemple1_HelloWorld.deps.json
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/bin/Debug/net8.0/Exemple1_HelloWorld.runtimeconfig.json
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/bin/Debug/net8.0/Exemple1_HelloWorld.dll
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/bin/Debug/net8.0/Exemple1_HelloWorld.pdb
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/obj/Debug/net8.0/Exemple1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/obj/Debug/net8.0/Exemple1_HelloWorld.AssemblyInfoInputs.cache
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/obj/Debug/net8.0/Exemple1_HelloWorld.AssemblyInfo.cs
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/obj/Debug/net8.0/Exemple1_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/obj/Debug/net8.0/Exemple1_HelloWorld.sourcelink.json
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/obj/Debug/net8.0/Exemple1_HelloWorld.dll
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/obj/Debug/net8.0/refint/Exemple1_HelloWorld.dll
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/obj/Debug/net8.0/Exemple1_HelloWorld.pdb
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/obj/Debug/net8.0/Exemple1_HelloWorld.genruntimeconfig.cache
+/Users/daraorlova/Desktop/ГБ/введение в программирование/Exemple1_HelloWorld/obj/Debug/net8.0/ref/Exemple1_HelloWorld.dll
