@@ -109,6 +109,9 @@
 // newText = Replace(newText, 'С', 'с');
 // Console.WriteLine(newText);
 
+
+
+
 int[] arr = { 1, 5, 4, 3, 6, 7, 1, 1 };
 
 void PrintArray(int[] array) // функция для выведения на экран любого массива
@@ -140,5 +143,27 @@ void SelectionSort(int[] array) //функция для сортироваки �
 }
 
 PrintArray(arr);
-SelectionSort(arr);
+// SelectionSort(arr);
+// PrintArray(arr);
+
+
+// СР (самостояельная работа) фкнкция, сортирующая от большего к меньшему 
+void SortMaxMin(int[] array)
+{
+    for (int i = 0; i < array.Length - 1; i++)
+    {
+        int maxPosition = i;
+        for (int j = i + 1; j < array.Length; j++)
+        {
+            if (array[j] > array[maxPosition]) maxPosition = j;
+        }
+
+
+        int temporary = array[i];
+        array[i] = array[maxPosition];
+        array[maxPosition] = temporary;
+
+    }
+}
+SortMaxMin(arr);
 PrintArray(arr);
