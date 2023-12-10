@@ -82,28 +82,15 @@
 // 8 => 8
 // 9542 => 9,5,4,2
 
-Console.WriteLine("Введите число");
-int num = Convert.ToInt32(Console.ReadLine()); //9542
+// 
 
-if (num < 10)
+Console.Write("Введите число ");
+int num = Convert.ToInt32(Console.ReadLine());
+string result ="";
+
+for (int number = num; number > 0; number = number / 10)
 {
-    Console.WriteLine(num);
+int number2 = number % 10;
+result = number2 + "," + result;
 }
-else
-{
-
-    while (num > 0)
-    {
-
-        int result = num % 10;
-        num = num/10;
-        if (num > 0)
-        {
-            Console.Write(result + ",");
-        }
-        else
-        {
-            Console.WriteLine(result);
-        }
-    }
-}
+Console.WriteLine(result);
