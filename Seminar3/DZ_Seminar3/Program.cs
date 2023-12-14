@@ -95,12 +95,12 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 if (num > 1 && num < 100001)
 {
-    string str = num.ToString(); // переводим в число строку
+    string str = num.ToString(); // переводим число в  строку
     int length = str.Length; //  подсчитываем сколько в числе разрядов(длинну строки/количество символов)
 
     int x = 10;
     int y = 1;
-    while (y < length - 1)
+    while (y < length - 1) // получаем делитель для получения самого левого разряда
     {
         x = x * 10;
         y++;
