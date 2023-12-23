@@ -38,19 +38,19 @@
 
 // int firstElement = 1;
 
-// PrintNumbers(firstElement, num);
+PrintNumbers(firstElement, num);
 
-// void PrintNumbers(int startEl, int endEl)
-// {
-//     System.Console.WriteLine(startEl);
+void PrintNumbers(int startEl, int endEl)
+{
+    System.Console.WriteLine(startEl);
 
-//     if (startEl == endEl)
-//     {
-//         return;
-//     }
+    if (startEl == endEl)
+    {
+        return;
+    }
 
-//     PrintNumbers(startEl + 1, endEl);
-// }
+    PrintNumbers(startEl + 1, endEl);
+}
 
 
 
